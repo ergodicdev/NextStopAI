@@ -1,0 +1,25 @@
+# NextStopAI — Python Dependencies
+# Install in Databricks: %pip install optuna lightgbm
+# Install locally: pip install -r requirements.txt
+
+# Deep Learning
+torch>=2.0.0
+
+# Gradient Boosting & Ranking
+lightgbm>=4.0.0
+
+# Hyperparameter Optimization
+optuna>=3.0.0
+
+# MLOps
+mlflow>=2.0.0
+
+# Data Processing
+pandas>=1.5.0
+numpy>=1.23.0
+scikit-learn>=1.2.0
+pyspark>=3.3.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
