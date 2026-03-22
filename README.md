@@ -275,7 +275,7 @@ TABLE_AIRPORTS      = "recsys_bronze.airports"
 
 | | |
 |---|---|
-| **Author** | Miguel Silva Caju |
+| **Author** | Jose Casiano | Marco Anchiraico | Miguel Silva
 | **Degree** | MSc Data Science & Artificial Intelligence |
 | **Year** | 2025 |
 | **GitHub** | [@ergodicdev](https://github.com/ergodicdev) |
